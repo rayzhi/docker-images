@@ -1,6 +1,8 @@
 # containers
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
+> 本仓库具体参考的是：https://www.jianshu.com/p/447130682e08
+
 这个仓库是用来构建并下载被墙掉的镜像，比如 *gcr.io/xxx*等，
 
 最终产生的镜像路径是： registry.cn-hangzhou.aliyuncs.com/soolaugust/containers：$containers-$version, 比如 gcr.io/kubernetes-helm/tiller:v2.12.3 会被替换成 registry.cn-hangzhou.aliyuncs.com/soolaugust/containers:kubernetes-helm-tiller-v2.12.3
